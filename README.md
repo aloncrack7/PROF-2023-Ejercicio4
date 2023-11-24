@@ -1,6 +1,6 @@
 # PROF-2023-Ejercicio4
 
-En el ámbito de DevOps, existen procesos distintos al _build_ que se pueden implementar usando servidores de integración continua como Jenkins. Uno de ellos es el mantenimiento y despliegue de Bases de Datos. 
+En el ámbito de DevOps, existen procesos distintos al _build_ que se pueden implementar usando servidores de integración continua como Jenkins. Uno de ellos es el mantenimiento y despliegue de Bases de Datos.
 
 Adjunto a este enunciado, puedes encontrar el fichero Employees.db. Se trata de una base de datos SQLite. Esta base de datos contiene el esquema y los datos indicados en [https://www.sqltutorial.org/sql-sample-database/](https://www.sqltutorial.org/sql-sample-database/)
 
