@@ -54,9 +54,6 @@ Por último, el proyecto de Jenkins debe activar un _statuscheck_ en GitHub indi
 **
 
 *   Indícame la máquina donde está instalado el Jenkins
-*   Dame acceso como usuario a Jenkins usando las siguientes credenciales:
-    *   username: odieste
-    *   password: 3.1415
 
 *   Indícame el nombre del proyecto.
 *   Proporcioname el fichero con la clave _ssh_ por si necesitase acceder al directorio de Jenkins.
