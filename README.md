@@ -15,8 +15,6 @@ Supongamos que queremos modificar la base de datos. Para ello, hacemos un fork (
 
 **Los pasos anteriores cuadran perfectamente con el concepto de _pipeline_. Este ejercicio consiste en implementar en Jenkins dicho _pipeline_.** **Puedes usar el siguiente token para gestionar webhooks, pull requests y commits:**
 
-github\_pat\_11AATFDCA0p6n4XZndkJgV\_WwmdgTSfJUUu0Y9JoxhdN6zl3lZelwoEpkcMfHH8f72JFWTSJZBwuq0A3cG
-
 **_(si hubiera algún problema con el token, avisame)_**
 
 Es conveniente aclarar que el mantenimiento de una base de datos no es tan sencillo como lo indicado anteriormente. Por ejemplo, al borrar una columna, la carga posterior de los datos mediante un INSERT va a fallar. Lo mismo puede ocurrir con restricciones de integridad, cambio de formatos de los datos, etc. Hay productos específicos para la gestión de bases de datos que veremos posteriormente en el curso. **Por ahora, digamos que, ante un error cualquiera, lo que podríamos hacer es restaurar la base de datos original, sin cambios.**
